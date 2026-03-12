@@ -78,6 +78,12 @@ DisableEffect:
             author : X-EcutiOnner
             desc : Disables the Blind status effect that darkens the entire screen. Prevents the disorienting black-screen visual when blinded.
 
+        - RestoreSongsEffect:
+            title : Restore Bard/Dancer Song Effects (Old Song Patch)
+            recommend : no
+            author : CH.C (jchcc)
+            desc : Restores the visual ground effects for Bard and Dancer song skills. Otherwise known as the Restore Old Song patch. These effects were removed in newer clients but this patch reconstructs them using LandProtector's rendering code.
+
 EnableSlashCmd:
     title : SLASH COMMANDS
     mutex : false

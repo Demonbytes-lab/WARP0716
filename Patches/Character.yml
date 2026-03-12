@@ -106,10 +106,10 @@ CustomChar:
             desc : Shows damage numbers on Guild vs Guild (WoE) maps. By default, the client hides all damage digits during GvG to reduce visual clutter, but this makes it hard to gauge effectiveness.
 
         - IncreaseHairsLimit:
-            title     : Increase Human/Doram Hair Limit
+            title     : Increase Human/Doram Hair Limit (64K Hair Patch)
             recommend : no
             author    : Neo-Mind ,Skylove
-            desc      : Raises the maximum hairstyle ID for Human and Doram characters up to 999. Required for servers that add custom hairstyles beyond the default limit.
+            desc      : Raises the maximum hairstyle ID for Human and Doram characters up to 999. Otherwise known as the 64K Hair patch. Required for servers that add custom hairstyles beyond the default limit.
 
 #IncrHairs:
 #    title : INCREASE HAIRS

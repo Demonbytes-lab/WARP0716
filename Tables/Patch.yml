@@ -283,6 +283,10 @@
 351 : EnableNpcDialogueScrolling
 352 : HideItemba
 
+#--- Ported patches ---
+359 : IncreaseHairsLimit
+360 : RestoreSongsEffect
+
 #--- Missing from original table ---
 353 : ShowGvGDamage
 354 : PreviewInShop
