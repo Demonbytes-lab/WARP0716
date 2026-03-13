@@ -294,3 +294,5 @@
 356 : SendClientFlags
 357 : RestoreCpsDll
 358 : CustomMissingLauncherMsg
+
+1000: RestoreItemlinkInColorAnnounce

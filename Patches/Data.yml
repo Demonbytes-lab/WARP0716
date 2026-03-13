@@ -468,3 +468,9 @@ MultiGRFs:
             recommend : no
             author : Neo-Mind
             desc : Embeds GRF filenames directly into the client executable instead of reading from an external INI file. You provide the GRF list at patch time and it gets baked into the exe. No DATA.INI file needed in the client folder.
+
+        - RestoreItemlinkInColorAnnounce:
+            title : $$ Fix item links in colored announce
+            recommend : no
+            author : kikyamyam
+            desc : Restores clickable item links when using announce with custom color (announce type 0x1C3).
